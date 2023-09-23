@@ -6,9 +6,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i
 
 The tutorial is old, so some of the codes on it needs to change
 <br /><br />
-
-
-<br /><br />
 New react router implementation
 ```
 <BrowserRouter basename="/app">
@@ -20,7 +17,6 @@ New react router implementation
 > Check the react-router-dom for the new format of Routes component implementation: https://reactrouter.com/en/main
 
 <br /><br />
-
 When implementing the following:
 
 yoyo transition
@@ -28,8 +24,7 @@ yoyo transition
 yoyo: Infinity,
 ```
 <br />
-
-Change it to:
+  Change it to:
 
 ```
 repeatType: "mirror",
@@ -48,4 +43,5 @@ Change it to:
 ```
 
 <br /><br />
-> Link on the Framer Motion documentation: https://www.framer.com/motion/
+> Link on the Framer Motion documentation: https://www.framer.com/motion/<br />
+> Original github repo: https://github.com/iamshaunjp/framer-motion/tree/master
